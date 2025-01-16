@@ -1,7 +1,4 @@
-# Language Translator
-
-#### Video Demo: https://youtu.be/giqM5-hA1gQ
-#### Hosted on a website : https://arkankhan.pythonanywhere.com/
+#language Translator
 
 ## Project Overview
 
